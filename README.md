@@ -56,8 +56,7 @@ By using custom **SVG icons** and optimized Tailwind utilities, the application 
 
 - [x] **Responsive Design**: Fluid layout optimized for mobile, tablet, and desktop screens.
 - [x] **3D Interactive Cards**: Dynamic cards that respond to mouse movement for a premium feel.
-- [x] **Analytics Dashboard**: Weekly spending and savings visualizations with custom bar charts.
-- [x] **Transaction Management**: Real-time tracking of latest and upcoming financial activities.
+- [x] **Analytics Dashboard**: Weekly spending and savings visualizations with custom bar charts
 ---
 
 ## Tech Stack
