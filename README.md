@@ -14,7 +14,8 @@ npm install
 npm run dev
 ```
 
-🔗 **[Live Demo](https://monefy-dashboard.netlify.app/)**
+🔗 **[Live Demo]
+(https://monefy-dashboard.netlify.app/)**
 
 ---
 
@@ -57,8 +58,6 @@ By using custom **SVG icons** and optimized Tailwind utilities, the application 
 - [x] **3D Interactive Cards**: Dynamic cards that respond to mouse movement for a premium feel.
 - [x] **Analytics Dashboard**: Weekly spending and savings visualizations with custom bar charts.
 - [x] **Transaction Management**: Real-time tracking of latest and upcoming financial activities.
-- [x] **Premium Aesthetics**: Glassmorphism, concentric circle patterns, and vibrant gradients.
-
 ---
 
 ## Tech Stack
