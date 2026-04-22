@@ -17,6 +17,9 @@ npm run dev
 🔗 **[Live Demo]
 (https://monefy-dashboard.netlify.app/)**
 
+<img width="776" height="619" alt="image" src="https://github.com/user-attachments/assets/7304c028-2203-4559-908a-ce84de2e0ba3" />
+
+
 ---
 
 ## Project Structure
